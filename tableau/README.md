@@ -10,7 +10,7 @@ TED (от англ. technology, education, design — «технологии, образование, дизайн»)
 
 ## Реализация
 
-[История TED-конференций][https://public.tableau.com/app/profile/natalya.erastova/viz/TED-_17069560850270/Story1?publish=yes]
+[История TED-конференций](https://public.tableau.com/app/profile/natalya.erastova/viz/TED-_17069560850270/Story1?publish=yes)
 
 ## Статус проекта
 Выполнен
