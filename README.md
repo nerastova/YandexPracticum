@@ -13,7 +13,7 @@
 
 [1]:https://github.com/nerastova/YandexPracticum/tree/master/1_yandex_music/
 [2]:https://github.com/nerastova/YandexPracticum/tree/master/2_credit_history/
-[3]:https://github.com/nerastova/YandexPracticum/tree/master/real_estate_market/
+[3]:https://github.com/nerastova/YandexPracticum/tree/master/3_real_estate_market/
 [4]:https://github.com/nerastova/YandexPracticum/tree/master/scooter_rental_service/
 [5]:https://github.com/nerastova/YandexPracticum/tree/master/computer_games/
 [12]:https://github.com/nerastova/YandexPracticum/tree/master/tableau/
