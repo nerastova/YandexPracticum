@@ -11,7 +11,7 @@
 |[»зучение закономерностей, определ€ющих успешность игр][5] | Python, Pandas, NumPy, Matplotlib, предобработка данных, исследовательский анализ данных, описательна€ статистика, проверка статистических гипотез | Gamedev, »нтернет-магазины  | »спользу€ исторические данные о продажах компьютерных игр, оценки пользователей и экспертов, жанры и платформы, вы€вить закономерности, определ€ющие успешность игры |
 |[—оздание дашборда по пользовательским событи€м дл€ агрегатора новостей][12] | Tableau, продуктовые метрики, построение дашбордов | —тартапы  | TED (от англ. technology, education, design Ч Ђтехнологии, образование, дизайнї) Ч некоммерческий фонд, который проводит попул€рные конференции. Ќа них выступают специалисты из разных областей и читают лекции на актуальные социальные, культурные и научные темы. »сследуете историю TED-конференций и создадите дашборд в Tableau на основе полученных данных. |
 
-[1]:https://github.com/nerastova/YandexPracticum/tree/master/yandex_music/
+[1]:https://github.com/nerastova/YandexPracticum/tree/master/1_yandex_music/
 [2]:https://github.com/nerastova/YandexPracticum/tree/master/credit_history/
 [3]:https://github.com/nerastova/YandexPracticum/tree/master/real_estate_market/
 [4]:https://github.com/nerastova/YandexPracticum/tree/master/scooter_rental_service/
