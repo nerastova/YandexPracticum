@@ -16,4 +16,4 @@
 [3]:https://github.com/nerastova/YandexPracticum/tree/master/03_real_estate_market/
 [4]:https://github.com/nerastova/YandexPracticum/tree/master/04_scooter_service/
 [5]:https://github.com/nerastova/YandexPracticum/tree/master/computer_games/
-[12]:https://github.com/nerastova/YandexPracticum/tree/master/tableau/
+[12]:https://github.com/nerastova/YandexPracticum/tree/master/12_tableau/
